@@ -4,16 +4,16 @@ O site Amigo Secreto, foi um projeto de aula onde objetivo era criar uma aplica�
 
 # 📸 Screenshots
 <div style="display: inline_block"><br>
-  <img align="center" alt="Amigo Secreto Print" height="200" width="330" src="https://github.com/user-attachments/assets/793dfcc6-bf1d-4ac7-93f5-9c198fd9ca02">
-  <img align="center" alt="Alice-HTML" height="200" width="330" src="https://github.com/user-attachments/assets/4fcdc65f-aab0-4781-af2a-d1e3782de1ed">
-  <img align="center" alt="Alice-CSS" height="200" width="330" src="https://github.com/user-attachments/assets/01d6aa66-95b8-420a-a7ff-b2cfb0a77384">       
+  <img align="center" alt="Amigo Secreto Print" height="150" width="250" src="https://github.com/user-attachments/assets/793dfcc6-bf1d-4ac7-93f5-9c198fd9ca02">
+  <img align="center" alt="Alice-HTML" height="150" width="250" src="https://github.com/user-attachments/assets/4fcdc65f-aab0-4781-af2a-d1e3782de1ed">
+  <img align="center" alt="Alice-CSS" height="150" width="250" src="https://github.com/user-attachments/assets/01d6aa66-95b8-420a-a7ff-b2cfb0a77384">       
 </div>
 
 ##
 
 # 📲 Como Acessar o Aplicativo
 
-Você pode acessar o aplicativo clicando no link: https://desafio-amigo-secreto-lnfge02ii-alicemacias13s-projects.vercel.app/ 
+Você pode acessar o aplicativo clicando no link: https://desafio-amigo-secreto-seven.vercel.app/
 
 # 💻 Tecnologias
 
