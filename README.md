@@ -13,7 +13,7 @@ O site Amigo Secreto, foi um projeto de aula onde objetivo era criar uma aplica�
 
 # 📲 Como Acessar o Aplicativo
 
-Você pode acessar o aplicativo clicando no link: https://desafio-amigo-secreto-lnfge02ii-alicemacias13s-projects.vercel.app/ 
+Você pode acessar o aplicativo clicando no link: https://desafio-amigo-secreto-seven.vercel.app/
 
 # 💻 Tecnologias
 
